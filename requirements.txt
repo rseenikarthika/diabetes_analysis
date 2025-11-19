@@ -1,0 +1,11 @@
+Flask
+torch
+torchvision
+torchxrayvision
+pydicom
+Pillow
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
